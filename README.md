@@ -1,6 +1,6 @@
 # IITD – Engineering Physics Resource Hub
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Richard_Feynman_undated.png" style="width:100%; height:auto;">
+  <img src="http://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg" style="width:100%; height:auto;">
 </p>
 
 
