@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Feynman_lecture_1964_%2810481714045%29.jpg" style="width:100%; height:auto;">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d7/Feynman_lecture_1964_%2810481714045%29.jpg](https://en.wikipedia.org/wiki/Richard_Feynman#/media/File:Richard_Feynman_undated.png)" style="width:100%; height:auto;">
 </p>
 
 # IITD – Engineering Physics Resource Hub
