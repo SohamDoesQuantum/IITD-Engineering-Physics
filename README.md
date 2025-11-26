@@ -1,10 +1,10 @@
-# IITD – Engineering Physics Resource Hub
+
 <p align="center">
   <img src="http://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg" style="width:100%; height:auto;">
 </p>
 
 
-
+# IITD – Engineering Physics Resource Hub
 This repository is a **comprehensive, community-driven resource hub** for students of the **Engineering Physics (EP)** program at **IIT Delhi**.  
 It consolidates academic materials, research guidance, career paths, project ideas, and alumni experiences across batches, making it a **single point of reference for EP students**.
 
