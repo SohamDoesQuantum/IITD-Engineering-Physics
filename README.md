@@ -5,7 +5,7 @@
 
 
 # IITD – Engineering Physics Resource Hub
-This repository is a **comprehensive, community-driven resource hub** for students of the **Engineering Physics (EP)** program at **IIT Delhi**.  
+This repository is a **comprehensive, student-driven resource hub** for students of the **Engineering Physics (EP)** program at **IIT Delhi**.  
 It consolidates academic materials, research guidance, career paths, project ideas, and alumni experiences across batches, making it a **single point of reference for EP students**.
 
 The primary objective of this repository is:
