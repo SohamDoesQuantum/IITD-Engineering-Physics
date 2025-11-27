@@ -114,11 +114,11 @@ ensuring continued updates and maintenance for the benefit of future EP students
 
 ---
 
-## Maintainers
+## Maintainers(in alphabetical order)
 
 - **Kaivalya Mahajan**
 - **Riya Annie Rubert**
-- **Soham Debnath (EP’28)**  
+- **Soham Debnath**  
   
 
 ---
