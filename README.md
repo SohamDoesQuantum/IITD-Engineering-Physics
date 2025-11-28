@@ -74,7 +74,7 @@ An advice to future maintainers, make new G-forms after forking
 - README.md — Main documentation  
 
 </details>
-## Team Roles and Responsibilities
+##Team Roles and Responsibilities
 
 This repository is maintained by a 9-member team. Work is divided into two outreach groups and one coordinator.
 
