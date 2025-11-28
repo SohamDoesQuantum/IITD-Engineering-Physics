@@ -100,7 +100,7 @@ This repository is maintained by a 9-member team. Work is divided into two outre
 
 ---
 
-### 📌 2. Higher Studies & Research Outreach Team 
+###  2. Higher Studies & Research Outreach Team 
 **Goal:** Gather information from seniors pursuing MS/PhD or working in research labs.
 
 **Each Member Must:**
