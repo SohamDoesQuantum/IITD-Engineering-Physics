@@ -1,7 +1,7 @@
 # CONTRIBUTING
 
 ## Submission Process
-1. Fill the contribution form (Google Form link here).
+1. Fill the contribution form 
 2. Upload only files you have rights to share.
 3. Follow the naming and folder rules below.
 
