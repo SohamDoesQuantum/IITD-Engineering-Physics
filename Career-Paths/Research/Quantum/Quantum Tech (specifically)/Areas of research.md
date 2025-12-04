@@ -1,0 +1,114 @@
+
+<details>
+  <summary><strong>📁 Repository folder structure — Quantum Tech/</strong></summary>
+
+  <pre>
+quantum-career-guide/
+│
+├── README.md
+│
+├── docs/
+│   ├── 0-preface/
+│   │   └── preface.md
+│   │
+│   ├── 1-introduction/
+│   │   ├── overview.md
+│   │   └── quantum-landscape.md
+│   │
+│   ├── 2-ecosystem/
+│   │   ├── quantum-pillars.md
+│   │   └── industry-vs-academia.md
+│   │
+│   ├── 3-research-areas/
+│   │   ├── algorithms.md
+│   │   ├── qec-fault-tolerance.md
+│   │   ├── quantum-hardware.md
+│   │   ├── qml.md
+│   │   ├── quantum-simulation.md
+│   │   ├── communication-networks.md
+│   │   └── quantum-materials.md
+│   │
+│   ├── 4-skills/
+│   │   ├── physics.md
+│   │   ├── mathematics.md
+│   │   ├── programming.md
+│   │   ├── experimental.md
+│   │   ├── research-skills.md
+│   │   └── communication.md
+│   │
+│   ├── 5-roadmap/
+│   │   ├── year1.md
+│   │   ├── year2.md
+│   │   ├── year3.md
+│   │   ├── year4.md
+│   │   └── late-starters.md
+│   │
+│   ├── 6-profile-building/
+│   │   ├── github-guide.md
+│   │   ├── resume-guide.md
+│   │   ├── blog-guide.md
+│   │   ├── publications.md
+│   │   └── linkedin.md
+│   │
+│   ├── 7-projects/
+│   │   ├── software-projects.md
+│   │   ├── hardware-projects.md
+│   │   ├── qml-projects.md
+│   │   ├── cryptography-projects.md
+│   │   └── project-templates/
+│   │       └── template.md
+│   │
+│   ├── 8-internships/
+│   │   ├── india-labs.md
+│   │   ├── international-programs.md
+│   │   ├── email-templates.md
+│   │   └── timelines.md
+│   │
+│   ├── 9-higher-education/
+│   │   ├── masters.md
+│   │   ├── phd-labs.md
+│   │   ├── sop-guide.md
+│   │   ├── lor-guide.md
+│   │   └── applications-timeline.md
+│   │
+│   ├── 10-industry/
+│   │   ├── software.md
+│   │   ├── hardware.md
+│   │   ├── quantum-finance.md
+│   │   ├── cryptography.md
+│   │   ├── job-roles.md
+│   │   └── salary-trends.md
+│   │
+│   ├── 11-companies/
+│   │   ├── india.md
+│   │   ├── usa.md
+│   │   ├── europe.md
+│   │   ├── canada.md
+│   │   ├── singapore-japan.md
+│   │   └── startups.md
+│   │
+│   ├── 12-choosing-your-path/
+│   │   ├── personality-matching.md
+│   │   └── decision-flowchart.md
+│   │
+│   ├── 13-resources/
+│   │   ├── books.md
+│   │   ├── courses.md
+│   │   ├── software-tools.md
+│   │   ├── research-methods.md
+│   │   └── paper-reading-guide.md
+│   │
+│   └── 14-addons/
+│       ├── quantum-club-guide.md
+│       ├── startup-guide.md
+│       ├── cv-template.md
+│       ├── sop-template.md
+│       └── email-template.md
+│
+└── assets/
+    ├── images/
+    ├── diagrams/
+    ├── logos/
+    └── pdfs/
+  </pre>
+</details>
