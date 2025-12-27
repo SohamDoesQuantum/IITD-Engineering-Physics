@@ -70,13 +70,12 @@ quantum-career-guide/
 │   │   └── applications-timeline.md  
 │   │
 │   ├── 10-industry/
+│   │   ├── cryptography.md
 │   │   ├── software.md
 │   │   ├── hardware.md
 │   │   ├── quantum-finance.md
-│   │   ├── cryptography.md
-│   │   ├── job-roles.md
-│   │   └── salary-trends.md
-│   │
+│   │   └── job-roles.md
+
 │   ├── 11-companies/
 │   │   ├── india.md
 │   │   ├── usa.md
