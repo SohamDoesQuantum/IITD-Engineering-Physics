@@ -156,6 +156,4 @@ Grades alone are not sufficient.
 
 ## Final note
 
-Indian quantum labs offer high-quality research exposure.
-
 Proactive outreach, preparation, and consistency matter far more than institutional labels.
