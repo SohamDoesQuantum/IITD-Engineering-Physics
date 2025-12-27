@@ -6,9 +6,9 @@
 quantum-career-guide/
 │
 ├── README.md
-│
+├── 0-preface/
 ├── docs/
-│   ├── 0-preface/
+│   
 │   │   └── preface.md
 │   │
 │   ├── 1-introduction/
