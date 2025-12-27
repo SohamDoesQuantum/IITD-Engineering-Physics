@@ -65,11 +65,12 @@ quantum-career-guide/
 │   │   └── timelines.md
 │   │
 │   ├── 9-higher-education/
+│   │   ├── faculty_directory.md
 │   │   ├── masters.md
 │   │   ├── phd-labs.md
 │   │   ├── sop-guide.md
 │   │   ├── lor-guide.md
-│   │   └── applications-timeline.md
+│   │   └── applications-timeline.md  
 │   │
 │   ├── 10-industry/
 │   │   ├── software.md
