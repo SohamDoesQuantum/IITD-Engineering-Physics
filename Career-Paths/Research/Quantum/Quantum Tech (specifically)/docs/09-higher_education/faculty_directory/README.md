@@ -27,14 +27,15 @@ Faculty are grouped **region-wise** for clarity.
 ---
 
 ## Directory structure
+<pre>
 faculty-directory/
 ├── README.md          # This file
-      ├── guidelines.md      # How to use this list responsibly
-      ├── india.md           # Indian universities and institutes
-      ├── usa.md             # United States universities
-      ├── europe.md          # European universities and research centres
-      ├── asia.md            # Asian universities (excluding India)
-
+├── guidelines.md      # How to use this list responsibly
+├── india.md           # Indian universities and institutes
+├── usa.md             # United States universities
+├── europe.md          # European universities and research centres
+├── asia.md            # Asian universities (excluding India)
+</pre>
 ---
 
 ## How to use this directory
